@@ -3,7 +3,7 @@ from telebot import types
 from time import sleep
 import math
 
-bot = telebot.TeleBot('876987152:AAGKhUYvNNCeVwa9o8AohFKNm5q5_OEY3RE')
+bot = telebot.TeleBot('key')
 
 #Функция для определения пола ребенка
 def man_or_girl(husband,wife):
